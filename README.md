@@ -4,6 +4,7 @@
   <img height="500" widht= "600" src="https://i.imgur.com/JygKehr.png">
 </div>
 
+---
 # Habilidades
 
 Nesse projeto, você será capaz de:
