@@ -1,4 +1,8 @@
-# Boas vindas ao repositório do projeto de Receitas!
+# Boas vindas ao repositório do Recipes App!
+
+<div align="center">
+  <img height="500" widht= "600" src="https://i.imgur.com/JygKehr.png">
+</div>
 
 # Habilidades
 
